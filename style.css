@@ -90,7 +90,7 @@ p{
     padding-top: 50px;
     margin-bottom: 170px;
     padding-bottom: 250px;
-    background-image: url("/Images/Background Image/bg7.jpg");
+    background-image: url("./Images/Background Image/bg7.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -146,7 +146,7 @@ p{
 
 
 .inquary{
-    background-image: url("/Images/Background Image/Group_33094_1.png");
+    background-image: url("./Images/Background Image/Group_33094_1.png");
     background-position: center;
     
     background-size: 700px 190px;
