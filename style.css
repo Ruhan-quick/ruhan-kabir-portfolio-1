@@ -89,6 +89,8 @@ p{
     height: 700px;
     margin-bottom: 170px;
     padding-bottom: 150px;
+    background-image: url("/Images/Background Image/bg7.jpg");
+    background-repeat: no-repeat;
 }
 
 /*-----------------------------------------------Section-3--------------------------------- */
@@ -118,12 +120,17 @@ p{
 .card-section h1{
     font-family: 'Bebas Neue', cursive;
     text-align: center;
-    padding-right: 9%;
+    padding-right: 4%;
     font-size: 40px;
 }
 
 .padding-a{
     padding: 2%;
+}
+.full{
+    width: 80%;
+    padding: 20px;
+    box-shadow: brown 5px 5px 20px;
 }
 
 /* -----------------------------------------section-4------------------------- */
@@ -131,7 +138,7 @@ p{
 .section-inq{
     padding:0% 30%;
     width: 100%;
-    padding-bottom: 120px;
+    padding-bottom: 80px;
 }
 
 
@@ -190,6 +197,7 @@ p{
 
  .center-align{
      text-align: center;
+     
  }
  .center-al{
      margin-left: 500px;
@@ -198,4 +206,15 @@ p{
      height: 35px;
      width: 35px;
      padding: 15px;
+ }
+
+ .album-section{
+     padding-left: 50px;
+     padding-right: 50px;
+ }
+
+ .album-section h1{
+     text-align: center;
+     font-family: 'Bebas Neue', cursive;
+     font-size: 50px;
  }
