@@ -87,10 +87,12 @@ p{
 .section-about{
     width: 100%;
     height: 700px;
+    padding-top: 50px;
     margin-bottom: 170px;
-    padding-bottom: 150px;
+    padding-bottom: 250px;
     background-image: url("/Images/Background Image/bg7.jpg");
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 /*-----------------------------------------------Section-3--------------------------------- */
@@ -100,7 +102,7 @@ p{
     width: 100%;
     height: 500px;
     background-color: #ebe5e5;
-    padding-bottom: 100px;
+    padding-bottom: 170px;
 }
 .card-container{
     margin-left: 5%;
@@ -121,7 +123,7 @@ p{
     font-family: 'Bebas Neue', cursive;
     text-align: center;
     padding-right: 4%;
-    font-size: 40px;
+    font-size: 55px;
 }
 
 .padding-a{
@@ -130,7 +132,7 @@ p{
 .full{
     width: 80%;
     padding: 20px;
-    box-shadow: brown 5px 5px 20px;
+    box-shadow: rgb(206, 138, 121) 5px 5px 20px;
 }
 
 /* -----------------------------------------section-4------------------------- */
@@ -155,9 +157,9 @@ p{
     border-radius: 15px;
     /* to change the background size you have to change both the background-size and height: ; width: ; attribute. */
     width: 700px;
-    margin-top: 40px;
+    margin-top: 80px;
     margin-bottom: 40px;
-    margin-left: -70px;   
+    margin-left: -0px;   
     /* margin-left: 30%; */
     
 }
